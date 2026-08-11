@@ -16,6 +16,10 @@ MVP planning
 
 MVPの月次シミュレーションにおける処理順序、運用損益、概算税、現金不足および資産枯渇の判定方法は、[MVP計算ルール](docs/calculation-rules.md)に記載します。
 
+## User Stories
+
+MVPのUser Story一覧、依存関係、Issue化状況は、[User Story一覧](docs/product/user-stories.md)に記載します。
+
 ## Goal
 
 NestPathのMVPは、次の問いに答えられることを目標とします。
